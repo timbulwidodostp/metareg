@@ -1,6 +1,8 @@
 # metareg
 Meta-regression Use metareg (meta) With (In) R Software
 
+https://www.youtube.com/watch?v=JxdUi_8s9Iw
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
